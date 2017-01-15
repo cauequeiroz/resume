@@ -62,5 +62,25 @@ Outros tópicos de meu interesse são: inteligencia artificial (machine learning
 **Liceu de Artes e Oficios de São Paulo** - Técnico em Multimídia  
 **Escolaridade** - Ensino médio completo
 
+## Cursos
+
+- [CodeWars](https://www.codewars.com/users/cauequeiroz) - 6 kyu (50+ problemas resolvidos)
+- Shaping up with Angular.js - CodeSchool
+- Staying Sharp with Angular.js - CodeSchool
+- Try Ember - CodeSchool
+- Javascript Best Pratices - CodeSchool
+- Front End Frameworks - Udacity
+- Object-Oriented Javascript - Udacity
+- Javascript Design Patterns - Udacity
+- Intro to AJAX - Udacity
+- Intro to jQuery - Udacity
+- Intro to HTML and CSS - Udacity
+- Javascript Basics - Udacity
+- Writing READMEs - Udacity
+- HTML & CSS - Codecademy
+- Make a Website - Codecademy
+- Learn the Command Line - Codecademy
+- Javascript - Codecademy
+
 
 
