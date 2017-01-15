@@ -52,5 +52,15 @@ Outros tópicos de meu interesse são: inteligencia artificial (machine learning
 **7Ways - Think & Create** - Desenvolvedor Front-end
 > Desenvolvimento de hotsites e sistemas para clientes como Livraria Cultura, Sodexo, Fastshop, ASUS, MAC, Overboard, entre outros.
 
+## Formação
+
+**Caelum** - Formação front-end
+- Desenvolvimento Web com HTML, CSS e Javascript
+- Programação front-end com Javascript e jQuery
+
+**Senac** - Técnico em Multimídia (400hrs)  
+**Liceu de Artes e Oficios de São Paulo** - Técnico em Multimídia  
+**Escolaridade** - Ensino médio completo
+
 
 
