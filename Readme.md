@@ -6,10 +6,10 @@
 **E-mail:** [cauenqueiroz@gmail.com](mailto:cauenqueiroz@gmail.com)  
 **Skype:** caue.qrz  
 
-**Github:** [@cauequeiroz](https://github.com/cauequeiroz)
-**Codepen:** [@cauequeiroz](http://codepen.io/cauequeiroz/)
-**Codewars:** [@cauequeiroz](https://www.codewars.com/users/cauequeiroz)
-**DeviantArt:** [http://cauequeiroz.deviantart.com/gallery/](http://cauequeiroz.deviantart.com/gallery/)
+**Github:** [@cauequeiroz](https://github.com/cauequeiroz)  
+**Codepen:** [@cauequeiroz](http://codepen.io/cauequeiroz/)  
+**Codewars:** [@cauequeiroz](https://www.codewars.com/users/cauequeiroz)  
+**DeviantArt:** [http://cauequeiroz.deviantart.com/gallery/](http://cauequeiroz.deviantart.com/gallery/)  
 
 ## Sobre mim
 
