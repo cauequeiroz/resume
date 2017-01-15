@@ -43,7 +43,7 @@ Outros tópicos de meu interesse são: inteligencia artificial (machine learning
 **B2W** - Desenvolvedor Front-end
 > Desenvolvimento de funcionalidades e teste A/B para os e-commerces Americanas, Submarino, Shoptime e Sou Barato.
 
-**Intuitive Intelligence**
+**Intuitive Intelligence** - Desenvolvedor Front-end
 > Desenvolvimento de sites, sistemas e teste A/B para clientes como Saraiva, Marisa, Fnac, Ri Happy, Ponto Frio, Porto Seguro, Le Postiche, Sepha, Sephora, Di Santinni, Tim, Viajanet, entre outros.
 
 **UUX** - Desenvolvedor Front-end
