@@ -6,3 +6,34 @@
 **E-mail:** [cauenqueiroz@gmail.com](mailto:cauenqueiroz@gmail.com)  
 **Skype:** caue.qrz  
 **Github:** cauequeiroz  
+
+## Sobre mim
+
+Hey! Meu nome é Caue Queiroz, tenho 21 anos e sou desenvolvedor front-end. Autodidata, curioso e nerd, encontrei nos códigos uma jornada melhor que Mordor ou Erebor. :)
+
+Invisto a maior parte do meu tempo estudando o que acredito ser fundamental para todo desenvolvedor front-end: HTML, CSS e Javascript. Ter uma boa base nesses três itens e facilidade de aprendizado faz com que eu consiga acompanhar o mercado e aprender o que for necessário. É incrível como o universo de desenvolvimento web cresce a cada dia. São inúmeros frameworks, bibliotecas, ferramentas, metodologias e afins. É realmente um prato cheio para quem é apaixonado por estudar e aprender coisas novas (como eu :p).
+
+Outros tópicos de meu interesse são: inteligencia artificial (machine learning, neural networks, genetic algorithms e derivados), empreendedorismo, mercado financeiro, self-improvement e biohacking.
+
+## Habilidades
+
+- HTML e HTML 5
+- CSS e CSS3
+- Sass, Less e Stylus
+- Javascript
+- Orientação a Objetos
+- Design Patterns
+- Arquiteturas MVC, MVVM, MV*
+- jQuery
+- AngularJS
+- Knockout.js
+- Grunt e Gulp
+- Versionamento de Código (Git)
+- Linha de Comando
+- Lógica
+- Windows, Linux e OSX
+- Inglês intermediário
+- Facilidade e disposição para aprender o que não estiver nessa lista! :)
+
+
+
