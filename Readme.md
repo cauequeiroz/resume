@@ -19,7 +19,7 @@ Invisto a maior parte do meu tempo estudando o que acredito ser fundamental para
 
 Outros tópicos de meu interesse são: inteligencia artificial (machine learning, neural networks, genetic algorithms e derivados), empreendedorismo, mercado financeiro, self-improvement e biohacking.
 
-## Habilidades
+## Skills
 
 - HTML e HTML 5
 - CSS e CSS3
@@ -66,7 +66,7 @@ Outros tópicos de meu interesse são: inteligencia artificial (machine learning
 **Liceu de Artes e Oficios de São Paulo** - Técnico em Multimídia  
 **Escolaridade** - Ensino médio completo
 
-## Cursos
+## Estudos
 
 - [CodeWars](https://www.codewars.com/users/cauequeiroz) - 6 kyu (50+ problemas resolvidos)
 - Shaping up with Angular.js - CodeSchool
