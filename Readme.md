@@ -35,5 +35,22 @@ Outros tópicos de meu interesse são: inteligencia artificial (machine learning
 - Inglês intermediário
 - Facilidade e disposição para aprender o que não estiver nessa lista! :)
 
+## Experiência Profissional
+
+**Centauro**
+> Desenvolvimento de aplicações, funcionalidades e teste A/B para as versões desktop e mobile do e-commerce.
+
+**B2W**
+> Desenvolvimento de funcionalidades e teste A/B para os e-commerces Americanas, Submarino, Shoptime e Sou Barato.
+
+**Intuitive Intelligence**
+> Desenvolvimento de sites, sistemas e teste A/B para clientes como Saraiva, Marisa, Fnac, Ri Happy, Ponto Frio, Porto Seguro, Le Postiche, Sepha, Sephora, Di Santinni, Tim, Viajanet, entre outros.
+
+**UUX**
+> Desenvolvimento de aplicativos para xbox one, windows 8 e windows phone. Criação de sistemas e sites para clientes como Sky, Vivo e Telefonica.
+
+**7Ways - Think & Create**
+> Desenvolvimento de hotsites e sistemas para clientes como Livraria Cultura, Sodexo, Fastshop, ASUS, MAC, Overboard, entre outros.
+
 
 
