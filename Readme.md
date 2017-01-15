@@ -82,5 +82,7 @@ Outros tópicos de meu interesse são: inteligencia artificial (machine learning
 - Learn the Command Line - Codecademy
 - Javascript - Codecademy
 
+## Projetos
 
+[Clique aqui](http://cauequeiroz.com.br/about/#proj) para acessar uma lista com os meus projetos pessoais.
 
