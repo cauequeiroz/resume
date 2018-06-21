@@ -5,7 +5,6 @@
 **Blog:** [http://cauequeiroz.com.br/](http://cauequeiroz.com.br/)  
 **E-mail:** [cauenqueiroz@gmail.com](mailto:cauenqueiroz@gmail.com)  
 **LinkedIn:** [https://www.linkedin.com/in/caue-queiroz](https://www.linkedin.com/in/caue-queiroz)  
-**Skype:** caue.qrz  
 
 **Github:** [@cauequeiroz](https://github.com/cauequeiroz)  
 **Codepen:** [@cauequeiroz](http://codepen.io/cauequeiroz/)  
@@ -14,9 +13,7 @@
 
 ## Sobre mim
 
-Hey! Meu nome é Caue Queiroz, tenho 21 anos e sou desenvolvedor front-end. Autodidata, curioso e nerd, encontrei nos códigos uma jornada melhor que Mordor ou Erebor. :)
-
-Invisto a maior parte do meu tempo estudando o que acredito ser fundamental para todo desenvolvedor front-end: HTML, CSS e Javascript. Ter uma boa base nesses três itens e facilidade de aprendizado faz com que eu consiga acompanhar o mercado e aprender o que for necessário. É incrível como o universo de desenvolvimento web cresce a cada dia. São inúmeros frameworks, bibliotecas, ferramentas, metodologias e afins. É realmente um prato cheio para quem é apaixonado por estudar e aprender coisas novas (como eu :p).
+Invisto a maior parte do meu tempo estudando o que acredito ser fundamental para todo desenvolvedor front-end: HTML, CSS e Javascript. Ter uma boa base nesses três itens e facilidade de aprendizado faz com que eu consiga acompanhar o mercado e aprender o que for necessário.
 
 Outros tópicos de meu interesse são: inteligencia artificial (machine learning, neural networks, genetic algorithms e derivados), empreendedorismo, mercado financeiro, self-improvement e biohacking.
 
@@ -25,13 +22,11 @@ Outros tópicos de meu interesse são: inteligencia artificial (machine learning
 - HTML e HTML 5
 - CSS e CSS3
 - Sass, Less e Stylus
-- Javascript
+- Javascript (es6)
 - Orientação a Objetos
 - Design Patterns
-- Arquiteturas MVC, MVVM, MV*
-- jQuery
-- AngularJS
-- Knockout.js
+- Arquitetura MVC
+- Frameworks Javascript (Angular, React, Vue)
 - Grunt e Gulp
 - Versionamento de Código (Git)
 - Linha de Comando
@@ -41,6 +36,12 @@ Outros tópicos de meu interesse são: inteligencia artificial (machine learning
 - Facilidade e disposição para aprender o que não estiver nessa lista! :)
 
 ## Experiência Profissional
+
+**Photon Group** - Desenvolvedor Front-end
+> Desenvolvimento e manutenção de sistemas internos e checkout do sistema de ecommerce. Criação de landing pages responsivas.
+
+**Centauro** - Desenvolvedor Front-end
+> Desenvolvimento de aplicações, funcionalidades e teste A/B para as versões desktop e mobile do e-commerce.
 
 **Centauro** - Desenvolvedor Front-end
 > Desenvolvimento de aplicações, funcionalidades e teste A/B para as versões desktop e mobile do e-commerce.
@@ -90,4 +91,3 @@ Outros tópicos de meu interesse são: inteligencia artificial (machine learning
 ## Projetos
 
 [Clique aqui](http://cauequeiroz.com.br/about/#proj) para acessar uma lista com os meus projetos pessoais.
-
