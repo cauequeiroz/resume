@@ -32,16 +32,44 @@ Outros tópicos de meu interesse são: inteligencia artificial (machine learning
 - Linha de Comando
 - Lógica
 - Windows, Linux e OSX
-- Inglês intermediário
+- Inglês Avançado
 - Facilidade e disposição para aprender o que não estiver nessa lista! :)
 
 ## Experiência Profissional
 
 **Photon Group** - Desenvolvedor Front-end
-> Desenvolvimento e manutenção de sistemas internos e checkout do sistema de ecommerce. Criação de landing pages responsivas.
+fev de 2017 – jun de 2018  (1 ano 5 meses)
+
+A Photon Group é uma empresa especializada na criação e venda de produtos do ramo fitness e saúde. É dona das marcas Iridium Labs, Everman, Veeva e Slim360.
+
+Minhas principais atribuições foram:
+• Desenvolvimento e manutenção de landing pages responsivas para os produtos.
+• Análise e otimizações de performance dos sites da empresa.
+• Manutenção do sistema de checkout do ecommerce (plataforma proprietária)
+• Desenvolvimento do sistema de checkout mobile (plataforma proprietária)
+• Desenvolvimento e manutenção de funcionalidades para o sistema interno de gestão da empresa.
+• Desenvolvimento de dashboards para o sistema interno de gestão da empresa.
+• Estudo de tecnologias para definições arquiteturais.
+• Criação de protótipos de aplicações mobile para futuros apps.
+• Desenvolvimento do ecommerce (plataforma VTEX).
+• Criação de ferramentas para auxiliar o trabalho dos desenvolvedores.
+
+Tecnologias utilizadas: HTML, CSS, SASS, Javascript (ES6), Gulp, Babel, Mocha + Chai, AngularJS, Git, Photoshop, Figma.
 
 **Centauro** - Desenvolvedor Front-end
-> Desenvolvimento de aplicações, funcionalidades e teste A/B para as versões desktop e mobile do e-commerce.
+dezembro de 2015 - março de 2016 (4 meses)
+
+A Centauro é uma rede lojas especializada na venda de artigos esportivos. No Brasil é uma das maiores empresas do ramo.
+
+Fui alocado pela empresa Intuitive CRO com o objetivo de desenvolver testes a/b especificamente para o ecommerce dessa empresa.
+
+Minhas principais atribuições foram:
+• Desenvolvimento de ferramentas para auxiliar o trabalho de outras áreas.
+• Análise e levantamento de requisitos para estudos de novas funcionalidades.
+• Desenvolvimento de múltiplas versões de uma funcionalidade para implementação do teste a/b.
+• Manutenção de funcionalidades desenvolvidas por mim e outros desenvolvedores.
+
+Tecnologias utilizadas: HTML, CSS, Javascript, jQuery, Photoshop, Maxymiser.
 
 **Centauro** - Desenvolvedor Front-end
 > Desenvolvimento de aplicações, funcionalidades e teste A/B para as versões desktop e mobile do e-commerce.
