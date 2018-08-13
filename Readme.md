@@ -56,6 +56,8 @@ Minhas principais atribuições foram:
 
 Tecnologias utilizadas: HTML, CSS, SASS, Javascript (ES6), Gulp, Babel, Mocha + Chai, AngularJS, Git, Photoshop, Figma.
 
+---
+
 **Centauro** - Desenvolvedor Front-end
 dezembro de 2015 - março de 2016 (4 meses)
 
@@ -70,6 +72,8 @@ Minhas principais atribuições foram:
 • Manutenção de funcionalidades desenvolvidas por mim e outros desenvolvedores.
 
 Tecnologias utilizadas: HTML, CSS, Javascript, jQuery, Photoshop, Maxymiser.
+
+---
 
 **Centauro** - Desenvolvedor Front-end
 > Desenvolvimento de aplicações, funcionalidades e teste A/B para as versões desktop e mobile do e-commerce.
