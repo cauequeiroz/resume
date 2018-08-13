@@ -37,7 +37,7 @@ Outros tópicos de meu interesse são: inteligencia artificial (machine learning
 
 ## Experiência Profissional
 
-**Photon Group** - Desenvolvedor Front-end
+**Photon Group** - Desenvolvedor Front-end  
 fev de 2017 – jun de 2018  (1 ano 5 meses)
 
 A Photon Group é uma empresa especializada na criação e venda de produtos do ramo fitness e saúde. É dona das marcas Iridium Labs, Everman, Veeva e Slim360.
@@ -58,8 +58,8 @@ Tecnologias utilizadas: HTML, CSS, SASS, Javascript (ES6), Gulp, Babel, Mocha + 
 
 ---
 
-**Centauro** - Desenvolvedor Front-end
-dezembro de 2015 - março de 2016 (4 meses)
+**Centauro** - Desenvolvedor Front-end  
+dez de 2015 - mar de 2016 (4 meses)
 
 A Centauro é uma rede lojas especializada na venda de artigos esportivos. No Brasil é uma das maiores empresas do ramo.
 
@@ -75,22 +75,79 @@ Tecnologias utilizadas: HTML, CSS, Javascript, jQuery, Photoshop, Maxymiser.
 
 ---
 
-**Centauro** - Desenvolvedor Front-end
-> Desenvolvimento de aplicações, funcionalidades e teste A/B para as versões desktop e mobile do e-commerce.
+**Intuitive Intelligence** - Desenvolvedor Front-end  
+dez de 2014 - dez de 2015 (1 anos e 1 mês)
 
-**B2W** - Desenvolvedor Front-end
-> Desenvolvimento de funcionalidades e teste A/B para os e-commerces Americanas, Submarino, Shoptime e Sou Barato.
+A Intuitive CRO era uma empresa especializada em otimização de conversão de ecommerces através de técnicas de marketing, user experience e, principalmente, teste a/b. Tinha como clientes empresas como Saraiva, Marisa, Fnac, Ri Happy, Ponto Frio, Porto Seguro, Le Postiche, Sepha, Sephora, Di Santinni, Tim, Viajanet, entre outros. Recentemente foi comprada pela Pmweb, a Wunderman company.
 
-**Intuitive Intelligence** - Desenvolvedor Front-end
-> Desenvolvimento de sites, sistemas e teste A/B para clientes como Saraiva, Marisa, Fnac, Ri Happy, Ponto Frio, Porto Seguro, Le Postiche, Sepha, Sephora, Di Santinni, Tim, Viajanet, entre outros.
+Minhas principais atribuições foram:
+• Análise e levantamento de requisitos para estudos de novas funcionalidades.
+• Desenvolvimento de múltiplas versões de uma funcionalidade para implementação do teste a/b.
+• Manutenção de funcionalidades desenvolvidas por mim e outros desenvolvedores.
 
-**UUX** - Desenvolvedor Front-end
-> Desenvolvimento de aplicativos para xbox one, windows 8 e windows phone. Criação de sistemas e sites para clientes como Sky, Vivo e Telefonica.
+Tecnologias utilizadas: HTML, CSS, Javascript, jQuery, Photoshop, Maxymiser.
 
-**7Ways - Think & Create** - Desenvolvedor Front-end
-> Desenvolvimento de hotsites e sistemas para clientes como Livraria Cultura, Sodexo, Fastshop, ASUS, MAC, Overboard, entre outros.
+---
+
+**UUX Ultimate User Experience** - Desenvolvedor Front-end  
+ago de 2014 - dez de 2014 (5 meses)
+
+A UUX era uma multinacional especializada em desenvolver produtos de streaming de videos para grandes telecoms brasileiras como Sky, Net, Vivo e Globosat. Atualmente ela foi comprada pela Agile Content, S.A.
+
+Minhas principais atribuições foram:
+• Desenvolvimento de telas responsivas para a plataforma SKY ONLINE.
+• Desenvolvimento de componentes javascript para a plataforma SKY ONLINE.
+
+Tecnologias utilizadas: HTML, CSS, LESS, Javascript, jQuery, Git, Photoshop.
+
+---
+
+**B2W Digital** - Desenvolvedor Front-end  
+abr de 2014 - ago de 2014 (5 meses)
+
+A B2W Digital é a empresa responsável pelos maiores ecommerces do Brasil: Americanas.com, Submarino, Shoptime e Sou Barato.
+
+Fui alocado pela empresa Intuitive CRO com o objetivo de desenvolver testes a/b especificamente para esses produtos.
+
+Minhas principais atribuições foram:
+• Análise e levantamento de requisitos para estudos de novas funcionalidades.
+• Desenvolvimento de múltiplas versões de uma funcionalidade para implementação do teste a/b.
+• Manutenção de funcionalidades desenvolvidas por mim e outros desenvolvedores.
+
+Tecnologias utilizadas: HTML, CSS, Javascript, jQuery, Photoshop, Maxymiser.
+
+---
+
+**Intuitive Intelligence** - Desenvolvedor Front-end  
+fev de 2014 - abr de 2014 (3 meses)
+
+São Paulo, Brasil
+A Intuitive CRO era uma empresa especializada em otimização de conversão de ecommerces através de técnicas de marketing, user experience e, principalmente, teste a/b. Tinha como clientes empresas como Saraiva, Marisa, Fnac, Ri Happy, Ponto Frio, Porto Seguro, Le Postiche, Sepha, Sephora, Di Santinni, Tim, Viajanet, entre outros. Recentemente foi comprada pela Pmweb, a Wunderman company.
+
+Minhas principais atribuições foram:
+• Análise e levantamento de requisitos para estudos de novas funcionalidades.
+• Desenvolvimento de múltiplas versões de uma funcionalidade para implementação do teste a/b.
+• Manutenção de funcionalidades desenvolvidas por mim e outros desenvolvedores.
+
+Tecnologias utilizadas: HTML, CSS, Javascript, jQuery, Photoshop, Maxymiser.
+
+---
+
+**7Ways** - Desenvolvedor Front-end  
+out de 2013 - fev de 2014 (5 meses)
+
+A 7ways é uma agência digital full service com foco em performance que presta serviços para empresas como Livraria Cultura, Sodexo, Fastshop, ASUS, entre outros.
+
+Minhas principais atribuições foram:
+• Desenvolvimento de hotsites para a Livraria Cultura.
+• Desenvolvimento de landpages responsivas para clientes diversos.
+• Manutenção de ecommerces na plataforma VTEX.
+
+Tecnologias utilizadas: HTML, CSS, Javascript, jQuery, SVN, Photoshop.
 
 ## Formação
+
+**Bacharelado em Sistemas de Informação** - UNINOVE (2017 - 2020)
 
 **Caelum** - Formação front-end
 - Desenvolvimento Web com HTML, CSS e Javascript
